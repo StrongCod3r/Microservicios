@@ -1,0 +1,17 @@
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\bin\Debug\net7.0\Receive.exe
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\bin\Debug\net7.0\Receive.deps.json
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\bin\Debug\net7.0\Receive.runtimeconfig.json
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\bin\Debug\net7.0\Receive.dll
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\bin\Debug\net7.0\Receive.pdb
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\obj\Debug\net7.0\Receive.csproj.AssemblyReference.cache
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\obj\Debug\net7.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\obj\Debug\net7.0\Receive.AssemblyInfoInputs.cache
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\obj\Debug\net7.0\Receive.AssemblyInfo.cs
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\obj\Debug\net7.0\Receive.csproj.CoreCompileInputs.cache
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\obj\Debug\net7.0\Receive.csproj.CopyComplete
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\obj\Debug\net7.0\Receive.dll
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\obj\Debug\net7.0\refint\Receive.dll
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\obj\Debug\net7.0\Receive.pdb
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\obj\Debug\net7.0\Receive.genruntimeconfig.cache
+C:\Users\sc\source\repos\RabbitMQ_POC\Receive\obj\Debug\net7.0\ref\Receive.dll
